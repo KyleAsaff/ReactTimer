@@ -1,2 +1,1 @@
-# ReactTimer
-Timer Application built in React
+ReactTimer App
