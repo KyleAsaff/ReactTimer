@@ -1,11 +1,11 @@
 var React = require('react');
 
 var Timer = React.createClass({
-	render: function () {
+	render: function() {
 		return (
-      <div>
-      Timer
-    </div>
+			<div>
+				Timer
+			</div>
 		);
 	}
 });
