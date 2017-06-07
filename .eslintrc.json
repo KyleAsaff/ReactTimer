@@ -35,6 +35,6 @@
         ],
         "react/jsx-uses-react": 1,
         "react/jsx-uses-vars": 1,
-        "no-fallthrough": ["error", { "commentPattern": "break[\\s\\w]*omitted" }]
+        "no-fallthrough": 0
     }
 }
